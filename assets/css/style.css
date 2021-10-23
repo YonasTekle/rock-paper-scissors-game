@@ -6,22 +6,22 @@
     box-sizing: border-box;
     font-family: Oswald, sans-serif;
   }
-  body {
+body {
     font-family: Arial, Helvetica, sans-serif;
     background: #1f3757;
-  }
+}
 
-  header {
+header {
     background: white;
     padding: 20px;
-  }
+}
   
-  header > h1 {
+header > h1 {
     color: #1f3757;
     text-align: center;
-  }
+}
   
-  .scoreboard {
+.scoreboard {
     width: 400px;
     margin: 60px  auto;
     border: 2px solid white;
@@ -30,59 +30,59 @@
     text-align: center;
     padding: 20px;
     position: relative;
-  }
+}
 
-  span {
+span {
     padding: 15px;
-  }
-  .result {
+}
+.result {
     font-size: 25px;
     margin: 60px;
     color: white;
     font-weight: bold;
     text-align: left;
-  }
+}
   
-  .result > p {
+.result > p {
     text-align: center;
-  }
+}
   
-  img {
+img {
     width:100px;
     height: 100px;
     border: 4px solid white;
     border-radius: 50%; 
     padding: 10px;
     margin: 20px;
-  }
+}
 
-  .options {
+.options {
     text-align: center;
     margin-top: 60px;
     
-   }
+}
    
-   .options img {
+.options img {
      cursor: pointer;
-   }
+}
    
-   #Rock:hover {
+ #Rock:hover {
      transform: translate3d(0px, -8px, 0px);
      transition: all 0.25s;
      background-color: #182C45;
-   }
-   #Paper:hover {
+}
+#Paper:hover {
      transform: translate3d(0px, -8px, 0px);
      transition: 0.4s;
      background-color: #182C45;
-   }
-   #Scissors:hover {
+}
+#Scissors:hover {
      transform: translate3d(0px, -8px, 0px);
      transition: all 0.25s;
      background-color: #182C45;
-   }
+}
    
-   footer {
+footer {
      position: absolute;
      background: white;
      color: #1f3757;
@@ -91,7 +91,7 @@
      text-align: center;
      padding: 10px;
      font-size: 20px;
-   }
+}
 
    
 @media screen and (max-width: 720px) {
@@ -99,10 +99,10 @@
       font-size: 15px;
     }
     
-  }
+}
   
   
-  @media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
     body {
       background-color:;
     }
@@ -117,10 +117,10 @@
       width: 350px;
       font-size: 16px;
     }
-  }
+}
   
   
-  @media screen and (max-width: 480px) {
+@media screen and (max-width: 480px) {
     body {
       background-color:;
     }
@@ -139,9 +139,9 @@
       width: 300px;
       font-size: 12px;
     }
-  }
+}
   
-  @media screen and (max-width: 320px) {
+@media screen and (max-width: 320px) {
     body {
       background-color:;
     }
@@ -163,5 +163,5 @@
     .scoreboard {
       width: 250px;
     }
-  }
+}
    
