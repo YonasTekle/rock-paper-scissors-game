@@ -37,3 +37,25 @@ function createCompChoice() {
     computerDisplay.innerHTML = compChoice;
 }
 
+/**
+ * Compare users choice to computer choice and declare a winner
+ */
+ function getResult() {
+    switch (compChoice + choice) {
+      case 'ScissorsRock':
+      case 'RockPaper':
+      case 'PaperScissors':
+        resultDisplay.innerHTML  = 'You Win!';
+        break;
+      case 'RockScissors':
+      case 'PaperRock':
+      case 'ScissorsPaper':
+        resultDisplay.innerHTML  = 'You Lose!';
+        break;
+      case 'RockRock':
+      case 'PaperPaper':
+      case 'ScissorsScissors':
+        resultDisplay.innerHTML  = 'It´s a draw!';
+        break;    
+    }
+  }
