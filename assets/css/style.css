@@ -82,6 +82,13 @@ img {
      background-color: #182C45;
 }
    
+h3 {
+  font-size: 1.5em;
+  text-align: center;
+  color: white;
+}
+
+
 footer {
      position: absolute;
      background: white;
@@ -90,13 +97,13 @@ footer {
      bottom: 0;
      text-align: center;
      padding: 10px;
-     font-size: 20px;
+     font-size: 1.5em;
 }
 
    
 @media screen and (max-width: 720px) {
     footer {
-      font-size: 15px;
+      font-size: 1em;
     }
     
 }
@@ -104,7 +111,7 @@ footer {
   
 @media screen and (max-width: 600px) {
     footer {
-      font-size: 13px;
+      font-size: 1em;
     }
     
     h1 {
@@ -119,7 +126,7 @@ footer {
   
 @media screen and (max-width: 480px) {
     footer {
-      font-size: 9px;
+      font-size: 0.8em;
     }
     img {
       width: 90px;
@@ -137,15 +144,13 @@ footer {
   
 @media screen and (max-width: 320px) {
     footer {
-      font-size: 8px;
-      
-      
+      font-size: 0.6em;
     }
+
     img {
       width: 80px;
       height: 80px;
       padding: 5px;
-      
     }
   
     h1 {
@@ -153,6 +158,10 @@ footer {
     }
     .scoreboard {
       width: 250px;
+    }
+
+    h3 {
+      font-size: 0.8em;
     }
 }
    
