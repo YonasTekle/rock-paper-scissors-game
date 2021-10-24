@@ -14,7 +14,7 @@ In this game, the user’s opponent is the computer and the computer chose rando
 
   - Featured at the top of the page, the title shows the name of the game: Rock Paper Scissors 
 
-![Title]       (assets/img/title.PNG)
+![Title](assets/img/title.PNG)
 
 - __Game Choice__
 
@@ -28,7 +28,7 @@ In this game, the user’s opponent is the computer and the computer chose rando
   - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
   - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Scoreboard](assets/img/scoreboard.PNG)
 
 - __Meetup Times section__
 
