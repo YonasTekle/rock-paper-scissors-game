@@ -40,13 +40,11 @@ In this game, the user’s opponent is the computer and the computer chose rando
 ## Testing 
 
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+- I tested to play this game in two browsers: Chrome and Firefox.
+- I tested if the website was responsive in Chrome and Firefox.
+- I confirmed that the 
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
-![Testing](assets/img/footer.PNG)
+![Testing](assets/img/Lighthouse.PNG)
 
 
 ### Validator Testing 
