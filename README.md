@@ -21,7 +21,7 @@ In this game, the user’s opponent is the computer and the computer chose rando
   - The user has three-game choices which are rock paper or scissors. These choices are interactive image buttons that users can click to make their choice and play the game.  
   - 
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Game Choice](assets/img/makechoice.PNG)
 
 - __Club Ethos Section__
 
