@@ -19,13 +19,13 @@ In this game, the user’s opponent is the computer and the computer chose rando
 - __Game Option__
 
   - The user has three-game choices which are rock paper or scissors. These choices are interactive image buttons that users can click to make their choice and play the game.  
-  - 
+  
 
 ![Game Choice](assets/img/makechoice.PNG)
 
 - __Scoreboard__
 
-  - 
+  - When the user selects a hand, the javascript code chooses a random option for the computer. Both selections and the results are displayed on the scoreboard.
 
 ![Scoreboard](assets/img/scoreboard.PNG)
 
@@ -72,7 +72,6 @@ The live link can be found here -  https://yonastekle.github.io/rock-paper-sciss
 ### Content 
 
 - The text for the Home REDME page was taken from Wikipedia Article A https://en.wikipedia.org/wiki/Rock_paper_scissors
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
 - The fonts were taken from [Google Fonts](https://fonts.google.com/)
 - The emoji images in the gamearea were taken from [Cleanpng](https://www.cleanpng.com/png-cut-resistant-gloves-emoji-test-apk-hand-hand-emoj-883837/download-png.html)
 
