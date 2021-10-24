@@ -4,7 +4,7 @@ Rock paper scissors are played between two people, in which each player simultan
 
 In this game, the user’s opponent is the computer and the computer chose randomly rock paper and scissors. Users of the game will learn the rules of the game. 
 
-![Responsice Mockup](assets/img/iamresponsive.PNG)
+![Responsice Mockup](assets/img/responsive.PNG)
 
 ## Features
 
