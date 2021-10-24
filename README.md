@@ -23,7 +23,7 @@ In this game, the user’s opponent is the computer and the computer chose rando
 
 ![Game Choice](assets/img/makechoice.PNG)
 
-- __Club Ethos Section__
+- __Game Option__
 
   - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
   - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
