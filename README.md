@@ -25,15 +25,13 @@ In this game, the user’s opponent is the computer and the computer chose rando
 
 - __Scoreboard__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - 
 
 ![Scoreboard](assets/img/scoreboard.PNG)
 
 - __The Footer__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - The footer section displays the rules for the game Rock Paper Scissors.
 
 ![Footer](assets/img/footer.PNG)
 
@@ -42,7 +40,7 @@ In this game, the user’s opponent is the computer and the computer chose rando
 
 - I tested to play this game in two browsers: Chrome and Firefox.
 - I tested if the website was responsive in Chrome and Firefox.
-- I confirmed that the 
+- I tested this game by running it through Lighthouse in devtools.
 
 ![Testing](assets/img/Lighthouse.PNG)
 
