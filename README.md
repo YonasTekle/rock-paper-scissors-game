@@ -14,7 +14,7 @@ In this game, the user’s opponent is the computer and the computer chose rando
 
   - Featured at the top of the page, the title shows the name of the game: Rock Paper Scissors 
 
-![Title](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Title](assets/img/title.PNG)
 
 - __Game Choice__
 
